@@ -1,5 +1,5 @@
 # yoozoo_test
-Backend: facerec-backend 
+Backend: facerec-backend   
 cmd: python app.py  
   
 Frontend: my-app  
