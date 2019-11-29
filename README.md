@@ -1,7 +1,11 @@
 # yoozoo_test
 Backend: facerec-backend   
-cmd: python app.py  
+cmd:  
+cd facerec-backend  
+python app.py  
   
 Frontend: my-app  
-cmd: npm start
+cmd:  
+cd my-app  
+npm start
 
